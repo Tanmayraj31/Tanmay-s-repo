@@ -27,5 +27,6 @@ int main(){
     printf("sorted array :");
 	for(int i=0;i<n;i++){
 		printf("\t%d",a[i]);
-	}		
+	}
+	printf("Thankyou for using this method to sort the no.");    
 }
